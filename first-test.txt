@@ -3,3 +3,4 @@ This line is the second line of the file.
 You never know where a flatbread came from.
 If it has hair on it.
 Append: You should eat before you pass out.
+You should get rid of the hair before you eat it.
