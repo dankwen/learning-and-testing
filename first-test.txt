@@ -3,5 +3,6 @@ This line is the second line of the file.
 You never know where a flatbread came from.
 If it has hair on it.
 This is a comment I added in the patch-2 branch.
-Append: You should eat before you pass out.
+If the hair is long then you know. 
+If the hair is short then it's ok.
 
